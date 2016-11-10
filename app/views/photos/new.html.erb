@@ -30,6 +30,15 @@
         <input type="text" id="caption" name="caption" placeholder="Caption" class="form-control" value="<%= @photo.caption %>">
       </div>
 
+      <!-- Label and input for location -->
+      <div class="form-group">
+        <label for="location" class="control-label">
+          Location
+        </label>
+
+        <input type="text" id="location" name="location" placeholder="Location" class="form-control" value="<%= @photo.location %>">
+      </div>
+
       <button class="btn btn-success">
         Create Photo
       </button>
