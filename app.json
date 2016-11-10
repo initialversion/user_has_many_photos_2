@@ -1,0 +1,1 @@
+{"name":"user has many photos","repository":"https://github.com/initialversion/user_has_many_photos_2","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
